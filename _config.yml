@@ -1,0 +1,14 @@
+layout_spectrum: 0.27886857208795846
+typography_spectrum: 0.8930009312462062
+color:
+  brandStrength: 0.6884408674668521
+  lightness: 0.6527474967297167
+  saturation: 0.10022132098674774
+  rhythmicContrast: 0.14125413727015257
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+name: simple crepes
